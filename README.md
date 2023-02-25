@@ -50,7 +50,7 @@
                   
                   
               </div>
-         </ul>   
+         
           </div>
       </div>
   <div id="carouselExampleCaptions" class="carousel slide">
