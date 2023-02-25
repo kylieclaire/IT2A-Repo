@@ -22,7 +22,7 @@
               <img src="img/cup-hot.svg" height="28" alt="CoolBrand" >
               oh so sweet
           </a>
-          <ul class="nav justify-content-center">
+          
           <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
               <span class="navbar-toggler-icon"></span>
           </button>
