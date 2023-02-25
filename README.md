@@ -150,7 +150,7 @@
         </div>
       </div>
       <a href="#" class="btn btn-success"> Order Now</a> <br>
-    </div>
+    
     <div class="col">
       <div class="card h-50">
         <img src="img/pexels-alina-matveycheva-15485685.jpg" class="card-img-top" alt="goods" width="300" height="500">
