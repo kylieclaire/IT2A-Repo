@@ -135,7 +135,7 @@
   <div class="row row-cols-1 row-cols-md-3 g-3">
     <div class="col">
       <div class="card h-50">
-        <img src="img/pexels-dmitry-zvolskiy-2253643.jpg" class="card-img-top" alt="shop" width="300" height="500">
+        <img src="img/pexels-dmitry-zvolskiy-2253643.jpg" class="card-img-top" alt="shop" width="100" height="200">
         <div class="card-body">
          
           <p class="card-text">Come and visit our actual store located at Alabang, Muntinlupa. Visit us with your friends, families and your special one. You can also treat yourself with something sweet because you deserve it.</p>
@@ -145,7 +145,7 @@
     </div>
     <div class="col">
       <div class="card h-50">
-        <img src="img/pexels-alina-matveycheva-15485685.jpg" class="card-img-top" alt="goods" width="300" height="500">
+        <img src="img/pexels-alina-matveycheva-15485685.jpg" class="card-img-top" alt="goods" width="100" height="200">
         <div class="card-body">
          
           <p class="card-text">We have a lot of baked goods, sweet treats and different kinds of beverages in our menu. Oh so sweet also offers some combo and bundle treats and orders.</p>
@@ -154,7 +154,7 @@
     </div>
     <div class="col">
       <div class="card h-50">
-        <img src="img/pexels-andres-ayrton-6550776.jpg" class="card-img-top" alt="delivery" width="300" height="500">
+        <img src="img/pexels-andres-ayrton-6550776.jpg" class="card-img-top" alt="delivery" width="100" height="200">
         <div class="card-body">
          
           <p class="card-text">Oh so sweet has a good quality of service and delivery. There might be additional expenses depending on the location of the customer but nevertheless, the quality and flavorful of our sweet goods will still the same even after delivering.</p>
