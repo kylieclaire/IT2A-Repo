@@ -4,8 +4,8 @@
   <head>
 
     <meta charset="utf-8">
-    <meta http-equiv= "X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
     <title>Oh so sweet | Order your favorite sweet treats at Oh so sweet shop</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     
@@ -125,7 +125,7 @@
           <h3 style="color:rgb(109, 86, 57);"> Our Treats </h3> <br>
           <p color="text-black">Our shop sells different kinds of baked goods and sweet treats as well as mouth-watery beverages.   We provide sweet treats to satisfy people cravings as we believe that everyone deserve a special treat. For our dear customers who would like to visit our actual store, it is located at Alabang, Muntinlupa. However we also provide this website and social media to communicate with our potential customers.   We accept online order, transaction and have the best quality service in terms of delivering it to your doorsteps. Check out our delicious treats and order now! </p> <br>
           
-        </div>
+        
         <div>
 
           <h2 style="color:rgb(109, 86, 57);">Our Bittersweet Story </h2> <br>
