@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Oh so sweet | Order your favorite sweet treats at Oh so sweet shop</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    
 
   </head>
   <body>
@@ -104,7 +104,7 @@
     
 
 
-  </div>
+ 
 
 
   <section id="about" class="about-section-padding">
