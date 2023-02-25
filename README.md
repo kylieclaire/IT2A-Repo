@@ -58,14 +58,14 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/pexels-life-of-pix-134575.jpg" class="d-block w-100" alt="d1" >
+        <img src="img/pexels-life-of-pix-134575.jpg" class="d-block w-50" alt="d1" >
         <div class="carousel-caption d-none d-md-block">
           <h5 font size="250" style="color:black;" >NEW SWEET TREATS</h5>
           <p style="color:black;" >Get yourselves sweet and delicious cupcakes! Check out other sweet treats in our shop.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/pexels-blaque-x-1023949.jpg" class="d-block w-100" alt="d2">
+        <img src="img/pexels-blaque-x-1023949.jpg" class="d-block w-50" alt="d2">
         <div class="carousel-caption d-none d-md-block">
           <h5 sfont size="250" style="color:black;" >Enjoy your treats with our beverages.</h5>
           
@@ -73,7 +73,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/pexels-karolina-grabowska-4040691.jpg" class="d-block w-100" alt="d3 ">
+        <img src="img/pexels-karolina-grabowska-4040691.jpg" class="d-block w-50" alt="d3 ">
         <div class="carousel-caption d-none d-md-block">
           <h5 font size="250" style="color:black;">Aesthetic and instagrammable sweet shop</h5>
           <p style="color:black;" >Customers could visit our shop located at Muntinlupa. Visit now with your friends and loved ones!</p>
@@ -81,7 +81,7 @@
       </div>
 
       <div class="carousel-item">
-        <img src="img/pexels-valeria-boltneva-12659958.jpg" class="d-block w-100" alt="d4" > 
+        <img src="img/pexels-valeria-boltneva-12659958.jpg" class="d-block w-50" alt="d4" > 
         <div class="carousel-caption d-none d-md-block">
           <h5 font size="250" style="color:black;"> SHARING IS CARING!</h5>
           <p style="color:black;" >We are open for feedback and more suggestions from our dearest customers to further improve our oh so sweet shop.</p>
