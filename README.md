@@ -58,7 +58,7 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/pexels-life-of-pix-134575.jpg" class="d-block w-50" alt="d1" >
+        <img src="img/pexels-life-of-pix-134575.jpg" class="d-block w-50" alt="d1" width="50" length="100" >
         <div class="carousel-caption d-none d-md-block">
           <h5 font size="250" style="color:black;" >NEW SWEET TREATS</h5>
           <p style="color:black;" >Get yourselves sweet and delicious cupcakes! Check out other sweet treats in our shop.</p>
