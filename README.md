@@ -115,7 +115,7 @@
             <img src="" alt="" class="img=fluid">
 
 
-          </div>
+          
 
         <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
         <div class="about-text"> <br>
