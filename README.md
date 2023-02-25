@@ -117,7 +117,7 @@
 
           </div>
 
-        </div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
+        <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
         <div class="about-text"> <br>
           <h2 style="color:rgb(109, 86, 57);">Hello Sweeties! </h2> <br>
           <p color="text-black">Welcome to Oh so sweet online shop! Our shop sells different kinds of baked goods and sweet treats as well as mouth-watery beverages.   We provide sweet treats to satisfy people cravings as we believe that everyone deserve a special treat. For our dear customers who would like to visit our actual store, it is located at Alabang, Muntinlupa. However we also provide this website and social media to communicate with our potential customers.   We accept online order, transaction and have the best quality service in terms of delivering it to your doorsteps. Check out our delicious treats and order now! </p> <br>
